@@ -6,16 +6,20 @@
             <akhir>Ryskina</akhir>
         </namaLengkap>
         <nim>2110005</nim>
-        <kelas>TI 1.4D</kelas>
-        <tanggalLahir>2 Februari 2001</tanggalLahir>
+        <kelas>1.4D</kelas>
+        <ttl>
+            <tanggalLahir>2 Februari 2001</tanggalLahir>
+            <tempatLahir>Jakarta</tempatLahir>
+        </ttl>
         <jenisKelamin>Perempuan</jenisKelamin>
         <tinggiBadan>160 cm</tinggiBadan>
         <beratBadan>44 kg</beratBadan>
+        <golonganDarah>O</golonganDarah>
         <agama>Islam</agama>
         <kewarganegaraan>Indonesia</kewarganegaraan>
-        <alamat>Jl. Kenangan Mantan</alamat>
         <status>Mahasiswi</status>
         <hobby>Nonton Film</hobby>
+        <citaCita>Ingin Sukses Dunia dan Akhirat</citaCita>
         <noTlp>08123456789</noTlp>
         <email>muftia@gmail.com</email>
         <riwayatPendidikan>
@@ -23,13 +27,26 @@
             <smp>SMP Ki Hajar Dewantoro</smp>
             <smk>SMK Negeri 3 Tangerang</smk>
         </riwayatPendidikan>
+        <alamat>
+            <jalan>Jl. Kenangan Mantan</jalan>
+            <kecamatan>Cipondoh</kecamatan>
+            <kelurahan>Kenanga</kelurahan>
+            <kota>Tangerang</kota>
+        </alamat>
+        <keterangan>
+            <jarakMenujuKampus>6,9 km</jarakMenujuKampus>
+            <berangkatKeKampus>Naik Motor</berangkatKeKampus>
+            <waktuTempuh>30 menit</waktuTempuh>
+        </keterangan>
     </dataDiri>
     <dataOrtu>
         <dataAyah>
             <namaAyah>Darwin</namaAyah>
+            <agama>Islam</agama>
         </dataAyah>
         <dataIbu>
             <namaIbu>Yayun</namaIbu>
+            <agama>Islam</agama>
         </dataIbu>
     </dataOrtu>
 </biodata>
