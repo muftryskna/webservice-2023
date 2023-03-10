@@ -5,21 +5,23 @@
             <awal>Muftia</awal>
             <akhir>Ryskina</akhir>
         </namaLengkap>
+        <nim>2110005</nim>
+        <kelas>TI 1.4D</kelas>
         <tanggalLahir>2 Februari 2001</tanggalLahir>
         <jenisKelamin>Perempuan</jenisKelamin>
         <tinggiBadan>160 cm</tinggiBadan>
         <beratBadan>44 kg</beratBadan
-        <agama>Islam<agama>
+        <agama>Islam</agama>
         <kewarganegaraan>Indonesia</kewarganegaraan>
         <alamat>Jl. Kenangan Mantan</alamat>
         <status>Mahasiswi</status>
         <hobby>Nonton Film</hobby>
-        <noTlp>08123456789<noTlp>
+        <noTlp>08123456789</noTlp>
         <email>muftia@gmail.com</email>
         <riwayatPendidikan>
             <sd>SD Cipondoh 5 Tangerang</sd>
             <smp>SMP Ki Hajar Dewantoro</smp>
-            <smk>SMK Negeri 2 Tangerang</smk>
+            <smk>SMK Negeri 3 Tangerang</smk>
         </riwayatPendidikan>
     </dataDiri>
     <dataOrtu>
